@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Transmit/Transmit.ino",
+    "port": "/dev/ttyACM1",
+    "programmer": "avrisp"
+}
