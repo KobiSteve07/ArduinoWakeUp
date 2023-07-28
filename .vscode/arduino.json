@@ -1,6 +1,7 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "Transmit/Transmit.ino",
+    "sketch": "ArduinoWakeUp.ino",
     "port": "/dev/ttyACM1",
-    "programmer": "avrisp"
+    "programmer": "avrisp",
+    "output": "../ArduinoOutput"
 }
