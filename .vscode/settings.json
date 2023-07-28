@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "new": "cpp"
-    }
+    },
+    "arduino.additionalUrls": [
+        "https://raw.githubusercontent.com/NicoHood/HoodLoader2/master/package_NicoHood_HoodLoader2_index.json"
+    ]
 }

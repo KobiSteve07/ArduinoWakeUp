@@ -1,7 +1,7 @@
 {
-    "board": "arduino:avr:uno",
-    "sketch": "ArduinoWakeUp.ino",
-    "port": "/dev/ttyACM1",
+    "board": "hoodloader",
+    "sketch": "empty/empty.ino",
+    "port": "/dev/ttyACM0",
     "programmer": "avrisp",
     "output": "../ArduinoOutput"
 }
